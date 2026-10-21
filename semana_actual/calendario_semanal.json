@@ -1,0 +1,96 @@
+[
+  {
+    "day": "lunes",
+    "date": "2026-10-19",
+    "type": "REEL",
+    "scheduled_time": "2026-10-19 19:15",
+    "source": "semana_actual/01_lunes/reel/final_reel_lunes.mp4",
+    "cover": "semana_actual/01_lunes/reel/portada_reel.png",
+    "cover_1x1": "semana_actual/01_lunes/reel/portada_reel_1x1.png",
+    "caption": "El 80% de los clientes que te dejan el sillón vacío no faltan por maldad: simplemente se olvidan.\n\nAnotar turnos en papel y esperar que el cliente se acuerde solo te cuesta entre 3 y 5 turnos caídos por semana. Son más de $60.000 tirados a la basura por no avisar con anticipación.\n\nTurnoFlow envía recordatorios automáticos por WhatsApp 24 horas antes. El cliente confirma con un 1 y tu agenda queda asegurada sin que toques el celular.\n\nComentá TURNO y te pasamos el acceso para probar la demo en tu WhatsApp.\n\n#turnoflow #barberiasargentina #peluquerias #turnosonline"
+  },
+  {
+    "day": "martes",
+    "date": "2026-10-20",
+    "type": "REEL",
+    "scheduled_time": "2026-10-20 19:15",
+    "source": "semana_actual/02_martes/reel/final_reel_martes.mp4",
+    "cover": "semana_actual/02_martes/reel/portada_reel.png",
+    "cover_1x1": "semana_actual/02_martes/reel/portada_reel_1x1.png",
+    "caption": "Mandar un PDF de 40 MB por WhatsApp es la forma más rápida de perder ventas en tu negocio.\n\nNadie quiere esperar a que baje un archivo pesado consumiendo datos para ver una lista de precios borrosa. La gente sale del chat y le escribe a tu competencia.\n\nEn SB Solutions desarrollamos páginas web y software a medida que cargan en menos de un segundo y llevan al cliente directo a tu WhatsApp listo para comprar.\n\nComentá SISTEMA y te mandamos ejemplos de webs reales que desarrollamos.\n\n#desarrolloweb #softwareamedida #paginasweb #sbsolutions"
+  },
+  {
+    "day": "miercoles",
+    "date": "2026-10-21",
+    "type": "CAROUSEL",
+    "scheduled_time": "2026-10-21 12:30",
+    "source": [
+      "semana_actual/03_miercoles/carrusel/slide_1.png",
+      "semana_actual/03_miercoles/carrusel/slide_2.png",
+      "semana_actual/03_miercoles/carrusel/slide_3.png",
+      "semana_actual/03_miercoles/carrusel/slide_4.png",
+      "semana_actual/03_miercoles/carrusel/slide_5.png",
+      "semana_actual/03_miercoles/carrusel/slide_6.png",
+      "semana_actual/03_miercoles/carrusel/slide_7.png"
+    ],
+    "caption": "3 automatizaciones simples para tu local que ahorran más de 80 horas de trabajo al mes.\n\nContestar precios por WhatsApp, confirmar turnos a mano y sacar cuentas en un cuaderno te quita el tiempo que deberías usar para vender.\n\nEn este carrusel te mostramos cómo la automatización y los sistemas a medida salvan a los negocios locales para que funcionen sin depender del celular.\n\nComentá SISTEMA y te enviamos la guía técnica de implementación por mensaje.\n\n#automatizacion #softwareargentina #negocioslocales #sbsolutions"
+  },
+  {
+    "day": "miercoles",
+    "date": "2026-10-21",
+    "type": "REEL",
+    "scheduled_time": "2026-10-21 19:15",
+    "source": "semana_actual/03_miercoles/reel/final_reel_miercoles.mp4",
+    "cover": "semana_actual/03_miercoles/reel/portada_reel.png",
+    "cover_1x1": "semana_actual/03_miercoles/reel/portada_reel_1x1.png",
+    "caption": "3 automatizaciones simples para tu local que ahorran más de 80 horas de trabajo al mes.\n\nContestar precios por WhatsApp, confirmar turnos a mano y sacar cuentas en un cuaderno te quita el tiempo que deberías usar para vender.\n\nEn este video te mostramos cómo la automatización y los sistemas a medida salvan a los negocios locales para que funcionen sin depender del celular.\n\nComentá SISTEMA y te enviamos la guía técnica de implementación por mensaje.\n\n#automatizacion #softwareargentina #negocioslocales #sbsolutions"
+  },
+  {
+    "day": "jueves",
+    "date": "2026-10-22",
+    "type": "REEL",
+    "scheduled_time": "2026-10-22 19:15",
+    "source": "semana_actual/04_jueves/reel/final_reel_jueves.mp4",
+    "cover": "semana_actual/04_jueves/reel/portada_reel.png",
+    "cover_1x1": "semana_actual/04_jueves/reel/portada_reel_1x1.png",
+    "caption": "El 40% de los clientes de tu local no vuelven simplemente porque se olvidaron de agendar.\n\nNo se fueron con la competencia ni tuvieron una mala experiencia. Pasaron 30 días, se les pasó la fecha y nadie les recordó volver a pedir turnos por WhatsApp.\n\nTurnoFlow incluye reactivación automática de clientes inactivos. El sistema identifica a quienes llevan un mes sin reservar y les envía un mensaje personalizado para asegurar su lugar.\n\nComentá TURNO y te mostramos cómo funciona la reactivación en vivo.\n\n#turnoflow #barberias #esteticas #marketinglocal"
+  },
+  {
+    "day": "viernes",
+    "date": "2026-10-23",
+    "type": "REEL",
+    "scheduled_time": "2026-10-23 19:15",
+    "source": "semana_actual/05_viernes/reel/final_reel_viernes.mp4",
+    "cover": "semana_actual/05_viernes/reel/portada_reel.png",
+    "cover_1x1": "semana_actual/05_viernes/reel/portada_reel_1x1.png",
+    "caption": "Perder 10 horas semanales anotando pacientes en un Excel es frenar el crecimiento de tu consultorio.\n\nLas planillas compartidas se desconfiguran, las fichas se duplican y tu recepcionista pierde minutos valiosos buscando información de tratamientos en hojas desordenadas.\n\nEn SB Solutions creamos software a medida para estéticas y consultorios. Historial de pacientes, agenda de profesionales y control de cobros centralizados en una aplicación rápida.\n\nComentá SISTEMA y te mostramos cómo funciona una demo real.\n\n#softwareamedida #esteticasargentina #consultorios #gestionmedica"
+  },
+  {
+    "day": "sabado",
+    "date": "2026-10-24",
+    "type": "REEL",
+    "scheduled_time": "2026-10-24 13:00",
+    "source": "semana_actual/06_sabado/reel/final_reel_sabado.mp4",
+    "cover": "semana_actual/06_sabado/reel/portada_reel.png",
+    "cover_1x1": "semana_actual/06_sabado/reel/portada_reel_1x1.png",
+    "caption": "Creer que responder 80 mensajes a mano por día te hace más cercano es una trampa que frena tu negocio.\n\nSi tardás 40 minutos en pasar un precio o coordinar un horario porque estás atendiendo a otro cliente, la mayoría no te espera: le escribe al negocio de la otra cuadra.\n\nTurnoFlow resuelve la automatización de turnos en WhatsApp en 0.2 segundos. Tu cliente elige su horario sin fricción y vos recuperás 3 horas libres cada día.\n\nComentá TURNO y te mandamos el acceso para probar la demo desde tu celular.\n\n#turnoflow #barberiasargentina #peluquerias #productividad"
+  },
+  {
+    "day": "domingo",
+    "date": "2026-10-25",
+    "type": "PHOTO",
+    "scheduled_time": "2026-10-25 19:30",
+    "source": "semana_actual/07_domingo/feed/placa_editorial_finanzas.png",
+    "caption": "El domingo es para descansar, no para pasarte dos horas con la calculadora.\n\nMuchos dueños de barberías y peluquerías terminan la semana agotados y todavía tienen que sentarse a liquidar comisiones a mano, revisar tickets sueltos y ver cuánto cobró cada sillón.\n\nCon un sistema automatizado:\n1. Las comisiones por servicio se calculan solas al momento de atender.\n2. Cada barbero o estilista recibe su reporte semanal en PDF directo por WhatsApp.\n3. El balance de la caja neta se audita y se cierra en un solo clic.\n\nComentá CAJA y te mostramos cómo funciona el panel financiero de TurnoFlow en una demo gratuita.\n\n#barberiasargentina #peluqueriasargentina #gestiondenegocios"
+  },
+  {
+    "day": "domingo",
+    "date": "2026-10-25",
+    "type": "REEL",
+    "scheduled_time": "2026-10-25 20:00",
+    "source": "semana_actual/07_domingo/reel/final_reel_domingo.mp4",
+    "cover": "semana_actual/07_domingo/reel/portada_reel.png",
+    "cover_1x1": "semana_actual/07_domingo/reel/portada_reel_1x1.png",
+    "caption": "Una plantilla de $10 parece barata hasta que se te cae un sábado con el local lleno.\n\nLos plugins incompatibles, las caídas de servidor y la falta de soporte técnico terminan saliendo mucho más caros que invertir en tecnología seria desde el primer día.\n\nEn SB Solutions desarrollamos software a medida y páginas web pensadas exclusivamente para generar ingresos y ahorrar horas de trabajo en tu negocio.\n\nComentá SISTEMA y analizamos gratis cómo mejorar la infraestructura digital de tu empresa.\n\n#softwareamedida #desarrolloweb #negocioslocales #sbsolutions"
+  }
+]
